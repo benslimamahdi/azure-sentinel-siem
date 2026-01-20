@@ -1,0 +1,20 @@
+# Windows
+[Tt]humbs.db
+[Dd]esktop.ini
+
+# Logs
+*.log
+*.evt
+*.evtx
+
+# PowerShell module output
+*.psd1
+*.psm1
+
+# Editor directories
+.vscode/
+.idea/
+
+# Secret keys (safety)
+secrets.txt
+api_keys.json
